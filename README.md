@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Murillo Leão! 👋
 
-<!--
-**murilloleao/murilloleao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre mim
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Wyden e atuo na área de Operações e Tecnologia na Torre Construções. Sou apaixonado por resolver problemas reais através da automação e análise de dados.
 
-Here are some ideas to get you started:
+### 🛠️ No que eu mando bem:
+* **Business Intelligence:** Power BI (Dashboards avançados, DAX, Power Query).
+* **Automação:** Excel Avançado, VBA e Google Sheets (Função QUERY/SQL).
+* **Suporte & Infra:** Suporte Nível 1, Monitoramento CCO e Homologação de hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Meu Projeto Principal:
+👉 [**Dashboard Executivo de Monitoramento CCO**](https://github.com/murilloleao/Dashboard-Monitoramento-CCO)
+*Um estudo de caso real sobre a transição de processos manuais para inteligência de dados.*
+
+---
+📫 **Como me encontrar:**
+[LinkedIn](https://linkedin.com/in/murillo-leao12) | murillofixo@gmail.com
