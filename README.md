@@ -18,6 +18,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Wyden e atuo na
 📈 **Meu Projeto Principal:**
 
 👉 **[Dashboard Executivo de Monitoramento CCO](https://github.com/murilloleao/Dashboard-Monitoramento-CCO)**
+
 *Um estudo de caso real sobre a transição de processos manuais para inteligência de dados.*
 
 📫 **Como me encontrar:**
