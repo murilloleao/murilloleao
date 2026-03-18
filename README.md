@@ -40,6 +40,7 @@ I am a Systems Analysis and Development student at Wyden, currently working in O
 📈 **Main Project:**
 
 👉 **[CCO Monitoring Executive Dashboard](https://github.com/murilloleao/Dashboard-Monitoramento-CCO)**
+
 *A real-world case study on the transition from manual processes to data intelligence.*
 
 📫 **How to reach me:**
