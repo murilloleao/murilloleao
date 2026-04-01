@@ -1,10 +1,9 @@
 # Olá, eu sou o Murillo Leão! / Hi, I'm Murillo Leão! 👋
 
-[🇧🇷 Português](#portugues) | [🇺🇸 English](#english)
+[🇧🇷 Português](#-versão-em-português) | [🇺🇸 English](#-english-version)
 
 ---
 
-<a name="portugues"></a>
 ## 🇧🇷 Versão em Português
 
 👨‍💻 **Sobre mim**
@@ -27,7 +26,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Wyden e atuo na
 
 ---
 
-<a name="english"></a>
 ## 🇺🇸 English Version
 
 👨‍💻 **About me**
@@ -41,7 +39,7 @@ I am a Systems Analysis and Development student at Wyden, currently working in O
 
 📈 **Main Project:**
 
-👉 **[CCO Monitoring Executive Dashboard](https://github.com/murilloleao/CCO-Monitoring-Executive-Dashboard)**
+👉 **[CCO Monitoring Executive Dashboard](https://github.com/murilloleao/Dashboard-Monitoramento-CCO)**
 
 *A real-world case study on the transition from manual processes to data intelligence.*
 
