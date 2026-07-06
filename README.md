@@ -22,7 +22,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Wyden e atuo na
 *Um estudo de caso real sobre a transição de processos manuais para inteligência de dados.*
 
 📫 **Como me encontrar:**
-[LinkedIn](https://linkedin.com/in/murilloleao) | murillofixo@gmail.com
+[LinkedIn](www.linkedin.com/in/murillo-leao12) | murillofixo@gmail.com
 
 ---
 
@@ -44,4 +44,4 @@ I am a Systems Analysis and Development student at Wyden, currently working in O
 *A real-world case study on the transition from manual processes to data intelligence.*
 
 📫 **How to reach me:**
-[LinkedIn](https://linkedin.com/in/murilloleao) | murillofixo@gmail.com
+[LinkedIn](www.linkedin.com/in/murillo-leao12) | murillofixo@gmail.com
