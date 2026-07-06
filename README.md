@@ -15,10 +15,16 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Wyden e atuo na
 * **Automação:** Excel Avançado, VBA e Google Sheets (Função QUERY/SQL).
 * **Suporte e Infra:** Suporte Nível 1, Monitoramento CCO e Homologação de hardware.
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Power BI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+  <img align="center" alt="Excel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg">
+  <img align="center" alt="Google Sheets" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div><br>
+
 📈 **Meu Projeto Principal:**
 
 👉 **[Dashboard Executivo de Monitoramento CCO](https://github.com/murilloleao/Dashboard-Monitoramento-CCO)**
-
 *Um estudo de caso real sobre a transição de processos manuais para inteligência de dados.*
 
 📫 **Como me encontrar:**
@@ -37,11 +43,17 @@ I am a Systems Analysis and Development student at Wyden, currently working in O
 * **Automation:** Advanced Excel, VBA, and Google Sheets (QUERY/SQL function).
 * **Support & Infra:** L1 Support, Fleet Control (CCO) Monitoring, and Hardware Homologation.
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Power BI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+  <img align="center" alt="Excel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg">
+  <img align="center" alt="Google Sheets" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div><br>
+
 📈 **Main Project:**
 
 👉 **[CCO Monitoring Executive Dashboard](https://github.com/murilloleao/Dashboard-Monitoramento-CCO)**
-
 *A real-world case study on the transition from manual processes to data intelligence.*
 
 📫 **How to reach me:**
-[LinkedIn]([https://www.linkedin.com/in/murillo-leao12/) | murillofixo@gmail.com
+[LinkedIn](https://www.linkedin.com/in/murillo-leao12/) | murillofixo@gmail.com
