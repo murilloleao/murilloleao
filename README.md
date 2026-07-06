@@ -11,24 +11,31 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Wyden e atuo na área de Operações e Tecnologia na Torre Construções. Sou apaixonado por resolver problemas reais através da automação e análise de dados.
 
 🛠️ **No que eu mando bem:**
-* **Business Intelligence:** Power BI (Dashboards avançados, DAX, Power Query).
-* **Automação:** Excel Avançado, VBA e Google Sheets (Função QUERY/SQL).
-* **Suporte e Infra:** Suporte Nível 1, Monitoramento CCO e Homologação de hardware.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Power BI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-  <img align="center" alt="Excel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg">
-  <img align="center" alt="Google Sheets" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</div><br>
+* **Business Intelligence:** ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+  *(Dashboards avançados, DAX, Power Query)*
 
-📈 **Meu Projeto Principal:**
+* **Automação & Planilhas:** ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)  
+  *(VBA avançado, automações de processos e Função QUERY/SQL)*
 
-👉 **[Dashboard Executivo de Monitoramento CCO](https://github.com/murilloleao/Dashboard-Monitoramento-CCO)**
-*Um estudo de caso real sobre a transição de processos manuais para inteligência de dados.*
+* **Desenvolvimento Web & Banco de Dados:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-📫 **Como me encontrar:**
-[LinkedIn](https://www.linkedin.com/in/murillo-leao12/) | murillofixo@gmail.com
+* **Suporte e Infra:** *Suporte Nível 1, Monitoramento CCO e Homologação de hardware.*
+
+---
+
+📈 **Meus Projetos em Destaque:**
+
+### 📊 [Dashboard Executivo de Monitoramento CCO](https://github.com/murilloleao/Dashboard-Monitoramento-CCO)
+*Um estudo de caso real sobre a transição de processos manuais para inteligência de dados na gestão de frotas e tratamento pesado de dados via Power Query/DAX.*
+
+### ⚽ [Sistema de Gestão - CT J&R Futevôlei](https://murilloleao.github.io/ct-jr-futevolei/)
+*Aplicação web completa (SaaS) integrada ao Firebase com controle de níveis de acesso (Admin/Professor/Aluno). Possui painel administrativo com gráficos de ocupação em tempo real e CRUDs completos para gerenciamento do negócio.*
+
+---
+
+📫 **Como me encontrar:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-leao12/)  
+📧 **Email:** murillofixo@gmail.com
 
 ---
 
@@ -39,21 +46,28 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Wyden e atuo na
 I am a Systems Analysis and Development student at Wyden, currently working in Operations and Technology at Torre Construções. I am passionate about solving real-world problems through automation and data analysis.
 
 🛠️ **My Skills:**
-* **Business Intelligence:** Power BI (Advanced Dashboards, DAX, Power Query).
-* **Automation:** Advanced Excel, VBA, and Google Sheets (QUERY/SQL function).
-* **Support & Infra:** L1 Support, Fleet Control (CCO) Monitoring, and Hardware Homologation.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Power BI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-  <img align="center" alt="Excel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg">
-  <img align="center" alt="Google Sheets" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</div><br>
+* **Business Intelligence:** ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+  *(Advanced Dashboards, DAX, Power Query)*
 
-📈 **Main Project:**
+* **Automation & Spreadsheets:** ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)  
+  *(Advanced VBA, workflow automation, and QUERY/SQL functions)*
 
-👉 **[CCO Monitoring Executive Dashboard](https://github.com/murilloleao/Dashboard-Monitoramento-CCO)**
-*A real-world case study on the transition from manual processes to data intelligence.*
+* **Web Development & Databases:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-📫 **How to reach me:**
-[LinkedIn](https://www.linkedin.com/in/murillo-leao12/) | murillofixo@gmail.com
+* **Support & Infra:** *L1 Support, Fleet Control (CCO) Monitoring, and Hardware Homologation.*
+
+---
+
+📈 **Featured Projects:**
+
+### 📊 [CCO Monitoring Executive Dashboard](https://github.com/murilloleao/Dashboard-Monitoramento-CCO)
+*A real-world case study on transitioning from manual processes to data intelligence in fleet management and heavy data processing via Power Query/DAX.*
+
+### ⚽ [Management System - CT J&R Futevôlei](https://murilloleao.github.io/ct-jr-futevolei/)
+*Full SaaS web application integrated with Firebase featuring custom access levels (Admin/Teacher/Student). Includes an administrative panel with real-time occupancy charts and complete CRUDs for business management.*
+
+---
+
+📫 **How to reach me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-leao12/)  
+📧 **Email:** murillofixo@gmail.com
