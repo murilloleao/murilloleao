@@ -24,11 +24,13 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Wyden e atuo na
 
 ### 📈 Projetos em Destaque
 
-* **[Dashboard Executivo de Monitoramento CCO](https://github.com/murilloleao/Dashboard-Monitoramento-CCO):** Estudo de caso real sobre a transição de processos manuais para inteligência de dados na gestão de frotas, com tratamento pesado via Power Query.
-* **[Sistema de Gestão - CT J&R Futevôlei](https://murilloleao.github.io/ct-jr-futevolei/):** Aplicação web completa (SaaS) integrada ao Firebase. Possui painel administrativo restrito com gráficos de ocupação em tempo real e CRUDs completos.
+* **[Pipeline End-to-End: Monitoramento CCO & Logística](https://github.com/murilloleao/Dashboard-Monitoramento-CCO):** Engenharia de dados completa conectando automação de rotinas operacionais (JavaScript) a um Dashboard Executivo no Power BI. Inclui tratamento via Power Query (ETL), modelagem Star Schema e cálculo de horas extras e SLAs em DAX.
+* **Plataforma SaaS - CT J&R Futevôlei:** Aplicação web completa integrada ao Firebase (BaaS) com regras de negócios reais para gestão de centros esportivos.
+  * 🌐 **[Portal do Aluno](https://murilloleao.github.io/ct-jr-futevolei/):** Interface de agendamento em tempo real com controle dinâmico de vagas por turma, painel de cancelamento automatizado e notificações de status de aula.
+  * 🔒 **[Painel Administrativo / BI](https://murilloleao.github.io/ct-jr-futevolei/admin):** Área restrita com dashboards analíticos de moderação rápida por dia, controle de ocupação média, retenção de alunos, gestão de professores/planos e tratamento de exceções climáticas (ativação/inativação em lote).
 * **Sistema de Gestão de Frota e Registro de SLA:** Aplicação Low-Code (Google Workspace) com back-end em Google Apps Script para automatizar logs, validar metas e reduzir a digitação em 60%.
 * **Sistema de Telemetria e Auditoria (Câmeras):** Arquitetura orientada a ETL para monitoramento de hardware de segurança, focado em identificar falhas crônicas para manutenção preventiva.
-* **ERP Logístico e Auditoria Financeira:** Módulo de Master Data que cruza a base da frota ativa com o faturamento de telecomunicações, bloqueando pagamentos indevidos e gerando economia.
+* **ERP Logístico e Auditoria Financeira:** Módulo de Master Data que cruza a base da frota ativa com o faturamento de telecomunicações, bloqueando pagamentos indevidos e gerando economia (*savings*).
 
 ---
 
@@ -58,8 +60,10 @@ I am a Systems Analysis and Development student at Wyden, currently working in O
 
 ### 📈 Featured Projects
 
-* **[CCO Monitoring Executive Dashboard](https://github.com/murilloleao/Dashboard-Monitoramento-CCO):** A real-world case study on transitioning from manual processes to data intelligence in fleet management.
-* **[Management System - CT J&R Futevôlei](https://murilloleao.github.io/ct-jr-futevolei/):** Full SaaS web application integrated with Firebase, featuring a secure administrative panel with real-time occupancy charts.
+* **[End-to-End Pipeline: CCO & Logistics Monitoring](https://github.com/murilloleao/Dashboard-Monitoramento-CCO):** Complete data engineering connecting operational routine automation (JavaScript) to an Executive Power BI Dashboard.
+* **SaaS Platform - CT J&R Futevôlei:** Full-stack web application integrated with Firebase (BaaS) featuring real business rules for sports center management.
+  * 🌐 **[Student Portal](https://murilloleao.github.io/ct-jr-futevolei/):** Real-time booking interface with dynamic slot control and automated scheduling.
+  * 🔒 **[Admin & BI Dashboard](https://murilloleao.github.io/ct-jr-futevolei/admin):** Restricted area featuring analytical dashboards for real-time occupancy metrics, teacher/plan management, and quick batch actions for weather exceptions.
 * **Fleet Management & SLA Registration System:** Low-Code application powered by Google Apps Script to automate log recording, validate goals, and reduce manual typing by 60%.
 * **Telemetry & Fleet Auditing System:** ETL-oriented data architecture for monitoring security hardware compliance and prioritizing preventive maintenance.
 * **Logistics ERP & Financial Audit:** Master Data module that cross-references active fleet data with telecom supplier billing to block improper payments and generate savings.
